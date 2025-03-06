@@ -1,15 +1,54 @@
-<h1 align="center">Hi 👋, I'm Kamronbek</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+# 👋 Hi, I'm Abdulloh Qurbonov
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antiteror11&label=Profile%20views&color=0e75b6&style=flat" alt="antiteror11" /> </p>
+![GitHub Followers](https://img.shields.io/github/followers/antiterror11?style=social) ![GitHub Stars](https://img.shields.io/github/stars/antiterror11?style=social)
 
-- 🌱 I’m currently learning **React.js**
+[![Instagram](https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tursunboev_k_) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antiterrormkmobile@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tursunobe_k) 
 
-- 📫 How to reach me **antiterrormkmobile@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
+- 🔥 I’m currently working on **React.js projects**
+- 🌱 I’m currently learning **Frontend technologies**
+- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 📫 Reach me at: [antiterrormkmobile@gmail.com](mailto:antiterrormkmobile@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Technologies & Tools
+
+# Tech Stack
+
+## Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+ql&logoColor=white)
+
+
+## Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+
+
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+)
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antiterror11&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antiterror11&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiterror11&bg_color=0d1117&color=00aaff&line=0077ff&point=66ccff&area=true)
+
+
+---
+
