@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tursunboyev Kamronbek
 
-![GitHub Followers](https://img.shields.io/github/followers/antiterror11?style=social) ![GitHub Stars](https://img.shields.io/github/stars/antiterror11?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/antiterror11?style=social) ![GitHub Stars](https://img.shields.io/github/stars/antiterror11?style=social)![Kamronbek's Profile views](https://komarev.com/ghpvc/?username=dasturchioka&color=lightgrey)
 
 [![Instagram](https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tursunboev_k_) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antiterrormkmobile@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tursunobe_k) 
 
